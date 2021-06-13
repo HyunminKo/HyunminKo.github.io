@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hyunmin Blog</title>
-    <link>https://hyunminko.github.io/</link>
-    <description>Recent content on Hyunmin Blog</description>
+    <title>Test on Hyunmin Blog</title>
+    <link>https://hyunminko.github.io/test/</link>
+    <description>Recent content in Test on Hyunmin Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 01:08:55 +0900</lastBuildDate><atom:link href="https://hyunminko.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 01:08:55 +0900</lastBuildDate><atom:link href="https://hyunminko.github.io/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2</title>
       <link>https://hyunminko.github.io/test/2/</link>
